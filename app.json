@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "finance-controller",
+    "slug": "finance-controller",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  },
+  "name": "finance-controller"
+}
