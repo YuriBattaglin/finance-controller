@@ -2,7 +2,7 @@
   "expo": {
     "name": "finance-controller",
     "slug": "finance-controller",
-    "schema": "finance-controller",
+    "scheme": "finance-controller",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
