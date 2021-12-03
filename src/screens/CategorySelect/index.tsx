@@ -55,10 +55,10 @@ export function CategorySelect({
             ItemSeparatorComponent={() => <Separator/>}
             />
             <Footer>
-                <Button 
-                title="Selecionar"
-                onPress={closeSelectCategory}>
-                </Button>
+                <Button
+                    title="Selecionar"
+                    onPress={closeSelectCategory}
+                />
             </Footer>
         </Container>
     )

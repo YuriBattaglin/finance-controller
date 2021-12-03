@@ -15,7 +15,7 @@ interface IAuthContextData{
     signInWithGoogle(): Promise<void>;
     signInWithApple(): Promise<void>;
     signOut(): Promise<void>;
-    userStorageLoading(): boolean;
+    userStorageLoading: boolean;
 }
 
 interface User{
